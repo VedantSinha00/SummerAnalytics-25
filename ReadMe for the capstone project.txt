@@ -6,7 +6,7 @@ Please note that I am working on this project on a Windows computer, and it migh
   the database file is by the name of "dataset.csv" in the repository. 
 
 
-2. the bokeh plotting feature was working very inconsistantly. I had to run the code 10 times before findign that the graph was coming out in only one of them. 
+2. the bokeh plotting feature was working very inconsistantly. I had to run the code 10 times before finding that the graph was coming out in only one of them. 
   I have checked the code throughtly and it seems that the problem is either with the interface, or the system :/
   for the same reason, I have downloaded the plot in form of png files and uploaded it in the repository as well.
   Please refer to that to get a better sense of what the plot looks like in case the code causes the same problem for you as well. :)
